@@ -12,6 +12,6 @@ Tencent-QQ : 2928694424
 
 ### OpenPGP
 
-     Fingerprint = F166 F03A F77A 4C16 1017 CC02 C239 2599 17C7 E9A5
+     Fingerprint = A35C A08B 970C 6405 86FF 92F3 29C2 5E02 0B2E 244D
 
 [Pubilc Key](https://raw.githubusercontent.com/anrui2032/anrui2032/master/gpg/gpg-public.key)
