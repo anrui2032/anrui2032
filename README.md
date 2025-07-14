@@ -1,2 +1,2 @@
-### Hello everyone. I'm AnruiChan.
-[![AnruiChan Status](https://github-readme-stats.vercel.app/api?username=AnruiChan)](https://github.com/anruichan)
+### Hello everyone. I'm anrui2032.
+[![AnruiChan Status](https://github-readme-stats.vercel.app/api?username=anrui2032)](https://github.com/anrui2032)
