@@ -3,7 +3,7 @@
 <!--- 其实那天我根本没有去月球 --->
 
 ## Working environment
-[![Android 16](https://img.shields.io/badge/Android%2016-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-16/)<br>
+[![Android 17](https://img.shields.io/badge/Android%2017-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-17/)<br>
 [![Debian 13](https://img.shields.io/badge/Debian%2013-ce0056?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org)<br>
 
 ## Devices in use
